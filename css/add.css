@@ -1,0 +1,22 @@
+@charset="UTF-8";
+*{margin: 0px; padding:0px;}
+.main{
+	width: 750px;
+	height: 800px;
+	margin: 0px auto;
+
+}
+p{
+	width: 700px;
+	color: #666;
+	display: block;
+	font-size: 18px;
+	line-height: 50px;
+
+}
+span{
+	display: block;
+	font-size: 18px;
+	font-weight: 600;
+	line-height:50px;
+}
